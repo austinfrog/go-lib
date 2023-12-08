@@ -1,0 +1,8 @@
+version: 1
+type: npm
+resolver:
+    repo: npm
+    serverId: repo21
+deployer:
+    repo: npm
+    serverId: test1
